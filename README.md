@@ -1,8 +1,8 @@
 # EX-06 - Looping
 
-## NAME: R . NITHISH AADITIYAA
+## NAME: B.SAM JOEL JOSHUA
 
-## REGISTER NO: 25011876 [ 212225040287 ] 
+## REGISTER NO: 212225230242
 
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
